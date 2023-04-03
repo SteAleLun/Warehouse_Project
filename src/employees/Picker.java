@@ -7,7 +7,7 @@ public class Picker implements Worker {
 
     private int salary;
 
-    Warehouse warehouse;
+    private Warehouse warehouse;
 
     public int getSalary() {
         return salary;

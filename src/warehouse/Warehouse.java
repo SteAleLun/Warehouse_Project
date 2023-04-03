@@ -4,7 +4,7 @@ public class Warehouse {
 
     private int countOrder;
     private int balance;
-    public static int warehousesAmount;
+    private static int warehousesAmount;
     private final int numberOfWarehouse;
 
     public Warehouse() {
